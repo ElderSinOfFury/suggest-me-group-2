@@ -1,4 +1,4 @@
-import { HeadText, RadioButton, Wrapper, Footer } from "../../../Components";
+import { HeadText, RadioButton, Footer } from "../../../Components";
 
 const Body = () => {
   return (

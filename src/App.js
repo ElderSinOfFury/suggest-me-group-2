@@ -1,4 +1,4 @@
-import { Header, Home, Details } from "./Components";
+import { Header} from "./Components";
 import Router from "./Components/Router/Router";
 
 function App() {
@@ -7,8 +7,6 @@ function App() {
       <Header />
       <div className="container">
         <Router />
-        {/* <Home /> */}
-        {/* <Details /> */}
       </div>
     </div>
   );

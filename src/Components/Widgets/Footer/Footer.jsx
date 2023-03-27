@@ -4,9 +4,7 @@ const Footer = () => {
   return (
     <div className={s.Footer}>
       <span>Didin’t find the one you looking for?</span>
-      <button>
-      <a href="/">Suggest more</a>
-      </button>
+      <button>Suggest more</button>     
     </div>
   );
 };
